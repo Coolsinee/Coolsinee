@@ -1,10 +1,10 @@
-Wassup 👋 My name is Bildanov Emil.
+Hi There!👋 My name is Bildanov Emil.
 ===============================
 
-DevOps Engineer.
+I am DevOps Engineer.
 ----------------
 
-DevOps Engineer | 19 years old | Student at K(P)FU | Passionate about automation and building reliable systems 💻🚀 Hard Skills: • Operating Systems: Debian, Ubuntu, CentOS • CI/CD: GitLab • Scripting: Python, Bash 🐍 • Containers: Docker 🐳 • Infrastructure Services: DNS 🌐 • Databases: MySQL, PostgreSQL 🗃️ • Monitoring: Zabbix, Prometheus 📊 Seeking opportunities to contribute to challenging projects and further develop my DevOps skills. 💪
+DevOps Engineer | 20 years old | Student at K(P)FU | Passionate about automation and building reliable systems 💻🚀 Hard Skills: • Operating Systems: Debian, Ubuntu, CentOS • CI/CD: GitLab • Scripting: Python, Bash 🐍 • Containers: Docker 🐳 • Infrastructure Services: DNS 🌐 • Databases: MySQL, PostgreSQL 🗃️ • Monitoring: Zabbix, Prometheus 📊 Seeking opportunities to contribute to challenging projects and further develop my DevOps skills. 💪
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [emilbildanov@gmail.com](mailto:emilbildanov@gmail.com)
